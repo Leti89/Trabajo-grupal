@@ -1,12 +1,16 @@
 body {
     background-color: hwb(60 65% 0%);
     font-family: "Raleway", sans-serif;
+    background-color: rgba(136, 25, 25, 0.219);
 }
 
 .image{
-    border: 5px solid green;
+    border: 5px solid rgb(0, 0, 0);
     border-radius: 10px;
     height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .link-button {
@@ -17,4 +21,10 @@ body {
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
 }
