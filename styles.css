@@ -13,7 +13,19 @@ body {
     margin-right: auto;
 }
 
-.link-button {
+
+
+
+
+
+
+
+
+
+
+
+
+.link-button{
     text-decoration: none;
     color: black;
     border: 1px solid gray;
@@ -21,6 +33,13 @@ body {
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+}
+
+.link-button {
+    background-color: blueviolet;
+    position: fixed;  /* Fija el botón en la ventana del navegador */
+    bottom: 20px;     /* Ubica el botón a 20px del borde inferior */
+    right: 20px;      /* Ubica el botón a 20px del borde derecho */
 }
 h1{
     text-align: center;
