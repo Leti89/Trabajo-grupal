@@ -1,4 +1,6 @@
 body {
+    background-color: hwb(60 65% 0%);
+    font-family: "Raleway", sans-serif;
     background-color: rgba(136, 25, 25, 0.219);
 }
 
