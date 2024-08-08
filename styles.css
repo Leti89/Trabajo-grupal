@@ -1,5 +1,7 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-color: hwb(60 65% 0%);
+    font-family: "Raleway", sans-serif;
+    ;
 }
 
 .image{
