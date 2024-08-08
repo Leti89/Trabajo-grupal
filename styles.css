@@ -29,21 +29,9 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
-
-
-
-
-
-
-
-
-
-
-
-
 .link-button {
     background-color: blueviolet;
-    position: fixed;  
-    bottom: 20px;    
-    right: 20px;     
+    position: fixed;  /* Fija el botón en la ventana del navegador */
+    bottom: 20px;     /* Ubica el botón a 20px del borde inferior */
+    right: 20px;      /* Ubica el botón a 20px del borde derecho */
 }
